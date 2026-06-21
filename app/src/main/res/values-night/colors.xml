@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#0D0F14</color>
+    <color name="bg_surface">#161B25</color>
+    <color name="bg_item">#1C2233</color>
+    <color name="bg_nav_bar">#801E1E1E</color>
+    <color name="bg_notification_bar">#1C2233</color>
+
+    <color name="accent">#5B8CFF</color>
+    <color name="accent_end">#5B8CFF</color>
+
+    <color name="text_primary">#E8ECF4</color>
+    <color name="text_secondary">#6B7A99</color>
+    <color name="white">#FFFFFF</color>
+    <color name="glass_stroke">#26FFFFFF</color>
+    <color name="traffic_text_shadow">#80000000</color>
+    <color name="traffic_text_color">@color/text_primary</color>
+    <color name="divider_color">#0DFFFFFF</color>
+    <color name="menu_text_color">#FFFFFF</color>
+    <color name="nav_icon_tint">#FFFFFF</color>
+
+    <color name="connected_green">#30D158</color>
+    <color name="disconnected_red">#FF453A</color>
+
+    <color name="btn_connect_rim_start">#0A0C1C</color>
+    <color name="btn_connect_rim_end">#3F4678</color>
+    <color name="btn_connect_body_start">#333866</color>
+    <color name="btn_connect_body_center">#1B1E38</color>
+    <color name="btn_connect_body_end">#0B0D19</color>
+    <color name="btn_connect_icon_tint">#A0A5D6</color>
+    <color name="gradient_base">#0F1014</color>
+    <color name="gradient_blue_start">#401565C0</color>
+    <color name="gradient_blue_end">#001565C0</color>
+    <color name="gradient_purple_start">#406A1B9A</color>
+    <color name="gradient_purple_end">#006A1B9A</color>
+    <color name="gradient_magenta_start">#30D81B60</color>
+    <color name="gradient_magenta_end">#00D81B60</color>
+    <color name="gradient_cyan_start">#2500ACC1</color>
+    <color name="gradient_cyan_end">#0000ACC1</color>
+    <color name="gradient_white_start">#15FFFFFF</color>
+    <color name="gradient_white_end">#00FFFFFF</color>
+    
+    <color name="dialog_glass_fill">#33000000</color>
+    <color name="dialog_glass_stroke">#4DFFFFFF</color>
+    <color name="dialog_glass_highlight">#33FFFFFF</color>
+
+    <color name="bg_profile_selected">#2A3245</color>
+    <color name="text_profile_selected_primary">#FFFFFF</color>
+    <color name="text_profile_selected_secondary">#B0BDD1</color>
+    <color name="divider_profile_selected">#4DFFFFFF</color>
+    <color name="slider_thumb_stroke">#FFFFFF</color>
+    <color name="glass_input_bg">#1AFFFFFF</color>
+
+    <color name="info_bg">#26FFFFFF</color>
+    <color name="info_stroke">#33FFFFFF</color>
+</resources>
