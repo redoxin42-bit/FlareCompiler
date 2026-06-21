@@ -1,11 +1,11 @@
 package com.flare.compiler
 
 import android.os.Bundle
-import android.app.Activity
+import androidx.appcompat.app.AppCompatActivity // Using AppCompatActivity for Material Components theme compatibility
 // import android.widget.TextView // No longer needed as we're using an XML layout
 // import android.widget.Button // Not strictly needed unless adding a click listener
 
-class MainActivity : Activity() {
+class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         // Set the content view to our new XML layout
