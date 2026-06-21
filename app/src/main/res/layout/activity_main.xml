@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_liquidglass_bg"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/flareTradeButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Велк дай зайти в FlareTrade"
+        android:background="@drawable/button_liquidglass_bg"
+        android:textColor="@color/button_text_color"
+        android:textSize="18sp"
+        android:paddingStart="30dp"
+        android:paddingEnd="30dp"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
