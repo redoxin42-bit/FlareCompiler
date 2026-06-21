@@ -1,59 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="bg_dark">#E2E5EC</color>
-    <color name="bg_surface">#F0F2F5</color>
-    <color name="bg_item">#EAECEF</color>
-    <color name="bg_nav_bar">#CCE2E5EC</color>
-    <color name="bg_notification_bar">#F0F2F5</color>
+    <!-- Background Liquidglass Gradient -->
+    <color name="liquidglass_start">#6A11CB</color> <!-- Deep Purple -->
+    <color name="liquidglass_end">#2575FC</color>   <!-- Bright Blue -->
 
-    <color name="accent">#5B8CFF</color>
-    <color name="accent_end">#5B8CFF</color>
+    <!-- Button Liquidglass Gradient -->
+    <color name="button_start">#00C9FF</color> <!-- Light Blue -->
+    <color name="button_end">#92FE9D</color>   <!-- Light Green -->
 
-    <color name="text_primary">#1A1C1E</color>
-    <color name="text_secondary">#707991</color>
-    <color name="white">#F7F8FA</color>
-    <color name="white_10">#1AF7F8FA</color>
-    <color name="glass_stroke">#80000000</color>
-    <color name="traffic_text_shadow">#40000000</color>
-    <color name="traffic_text_color">#FFFFFF</color>
-
-    <color name="divider_color">#18000000</color>
-    <color name="menu_text_color">#1A1C1E</color>
-    <color name="nav_icon_tint">#4A5568</color>
-
-    <color name="connected_green">#30D158</color>
-    <color name="disconnected_red">#FF453A</color>
-
-    <color name="btn_connect_rim_start">#D1D5DB</color>
-    <color name="btn_connect_rim_end">#F3F4F6</color>
-    <color name="btn_connect_body_start">#F9FAFB</color>
-    <color name="btn_connect_body_center">#E5E7EB</color>
-    <color name="btn_connect_body_end">#D1D5DB</color>
-    <color name="btn_connect_icon_tint">#707991</color>
-    <color name="gradient_base">#E8EBF0</color>
-    <color name="gradient_blue_start">#355B8CFF</color>
-    <color name="gradient_blue_end">#005B8CFF</color>
-    <color name="gradient_purple_start">#35A066FF</color>
-    <color name="gradient_purple_end">#00A066FF</color>
-    <color name="gradient_magenta_start">#25FF4081</color>
-    <color name="gradient_magenta_end">#00FF4081</color>
-    <color name="gradient_cyan_start">#2500E5FF</color>
-    <color name="gradient_cyan_end">#0000E5FF</color>
-    <color name="gradient_white_start">#80FFFFFF</color>
-    <color name="gradient_white_end">#00FFFFFF</color>
-    
-    <color name="dialog_glass_fill">#4DFFFFFF</color>
-    <color name="dialog_glass_stroke">#33000000</color>
-    <color name="dialog_glass_highlight">#66FFFFFF</color>
-
-    <color name="bg_profile_selected">#D8DEE9</color>
-    <color name="text_profile_selected_primary">#1A1C1E</color>
-    <color name="text_profile_selected_secondary">#707991</color>
-    <color name="divider_profile_selected">#18000000</color>
-    <color name="slider_thumb_stroke">#00000000</color>
-    <color name="glass_input_bg">#1A000000</color>
-    <color name="traffic_progress">#FF5722</color>
-
-    <color name="info_bg">#1A000000</color>
-    <color name="info_stroke">#26000000</color>
+    <!-- Text Color for Button -->
+    <color name="button_text_color">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
 </resources>
